@@ -1,0 +1,87 @@
+/* Write your CSS here */
+.initialContainer {
+  height: 100%;
+}
+
+.initialHeading {
+  font-family: roboto;
+  font-size: 22px;
+  font-weight: 400;
+  color: #64748b;
+}
+
+.yetToRegisterContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.yetToRegisterImage {
+  width: 100%;
+}
+
+.yetToRegisterPara {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: 400;
+  color: #64748b;
+  margin-bottom: 15px;
+}
+
+.registerButton {
+  padding: 10px;
+  font-size: 16px;
+  font-family: roboto;
+  color: white;
+  width: 80%;
+  border-radius: 5px;
+  border-width: 0px;
+  background-color: #0967d2;
+  cursor: pointer;
+}
+
+.registeredContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.registeredImage {
+  width: 50%;
+}
+.registeredHeading {
+  font-family: roboto;
+  font-size: 22px;
+  color: #323f4b;
+}
+
+.registrationsClosedContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.registrationsClosedImage {
+  width: 100%;
+}
+
+.registrationsClosedHeading {
+  font-family: roboto;
+  font-size: 24px;
+  font-weight: 600;
+  color: #475569;
+  margin-bottom: 5px;
+}
+
+.registrationsClosedPara {
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: 400;
+  color: #64748b;
+}

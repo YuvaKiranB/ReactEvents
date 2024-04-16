@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.eventImage {
+  width: 100%;
+}
+
+.li {
+  margin: 10px;
+  width: 45%;
+}
+
+.p1 {
+  margin-top: 5px;
+  padding-top: 0px;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+  margin-bottom: 0px;
+}
+
+.p2 {
+  margin-top: 5px;
+  padding-top: 0px;
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 14px;
+  color: white;
+  margin-bottom: 0px;
+}
+
+.eventButton {
+  cursor: pointer;
+  border-width: 0px;
+  padding: 0px;
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+.activeEvent {
+  border: 4px solid #2dd4bf;
+  border-radius: 10px;
+}
